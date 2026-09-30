@@ -1,0 +1,3 @@
+Taruh PDF asli dan foto asli (.pdf, .png, .jpg, .jpeg) di folder ini,
+lalu jalankan: python benchmark.py
+Semua berkas di sini otomatis ikut diuji kebenaran dekripsinya.
